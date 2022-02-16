@@ -1,0 +1,23 @@
+.textarea {
+  min-width: 100vw;
+  min-height: 40vh;
+  background-color: #202835;
+  resize: none;
+  margin-left: -5vw;
+  margin-top: 15;
+  margin-block-end: 5%;
+  border: 2px solid white;
+  overflow: hidden;
+  display: block;
+  color: white;
+  font-size: 15px;
+}
+
+.outputarea {
+  background-color: rgba(0, 0, 0, 0.92);
+  margin-bottom: 20%;
+  position: relative;
+  width: 0%;
+  height: 20%;
+  margin-left: 35%;
+}

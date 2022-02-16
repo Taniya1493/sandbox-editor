@@ -1,0 +1,10 @@
+.wrapper {
+  height: 100vh;
+  overflow: hidden;
+  scroll-snap-align: hidden;
+}
+
+.codeandoptions {
+  height: 65%;
+  display: flex;
+}

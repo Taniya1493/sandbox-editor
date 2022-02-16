@@ -1,0 +1,12 @@
+.main {
+  text-align: center;
+  background-color: whitesmoke;
+  top: 5%;
+  font-size: 55px;
+}
+
+.editor {
+  width: "900px";
+  margin-left: 40%;
+  margin-top: 40%;
+}
